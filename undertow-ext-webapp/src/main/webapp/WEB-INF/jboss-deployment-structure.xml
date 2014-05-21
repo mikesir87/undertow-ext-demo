@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure>
+    <deployment>
+        <!--  dependencies>
+            <module name="ceh.undertow.ext" services="export" />
+        </dependencies -->
+        <!--exclusions>
+            <module name="ceh.undertow.ext" />
+        </exclusions -->
+    </deployment>
+</jboss-deployment-structure>
